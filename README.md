@@ -1,2 +1,5 @@
 # codealpha_tasks
-codealph project task 
+CodeAlph Internship
+Task1: Calculator Program
+Author: Anshuman
+
